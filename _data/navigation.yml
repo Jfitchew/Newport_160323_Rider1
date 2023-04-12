@@ -1,0 +1,57 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "Data Validation"
+  url: "/CleanedByBR/"
+  side: left
+  dropdown:
+  - title: "Data Issues"
+    url: "/CleanedByBR/Issues/"
+  - title: "Data Outliers"
+    url: "/CleanedByBR/Outliers/"
+  - title: "Data Spikes"
+    url: "/CleanedByBR/Spikes/"
+  - title: "Data Cleaning"
+    url: "/CleanedByBR/Cleaned/"
+
+- title: "Data Analysis"
+  url: "/Validated/"
+  side: left
+  dropdown:
+  - title: "Test Run 1"
+    url: "/Validated/R01/"
+  - title: "Test Run 3"
+    url: "/Validated/R03/"
+  - title: "Test Run 5"
+    url: "/Validated/R05/"
+  - title: "Test Run 7"
+    url: "/Validated/R07/"
+  - title: "Test Run 9"
+    url: "/Validated/R09/"
+  - title: "Test Run 11"
+    url: "/Validated/R11/"
+  - title: "Test Run 13"
+    url: "/Validated/R13/"
+  - title: "Test Run 14"
+    url: "/Validated/R14/"
+  - title: "Test Run 18"
+    url: "/Validated/R18/"
+                
+
+- title: Videos
+  url: "/Videos/"
+  side: left
+
+- title: Changelog
+  url: "/changelog.html"
+  side: left
+
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
