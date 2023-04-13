@@ -13,7 +13,7 @@ WHEEL_CIRC_ACTUAL: 2092  # Cadex front 2092 (Giant front 2109)
 WHEEL_CIRC_BR_SETTING: 2092 
 REAR_WHEEL_CIRC: 2092   # Cadex rear 2092 (Giant rear 2111) - needed for determining speeds from cadence and crank angle delta
 CHAINRING: 56.0         # Cadex 56 (Giant 53)
-SPROCKET: 14            # from Cadence vs Ground Speed (could change gear! see code under "Add MORE FIELDS" where sprocket can be calculated)
+SPROCKET: 15            # from Cadence vs Ground Speed (could change gear! see code under "Add MORE FIELDS" where sprocket can be calculated)
 
 # Height settings
 COM_HEIGHT: 1.1         # using saddle height for Centre of Mass for both rider and bike (saddle was actually 1.02)
