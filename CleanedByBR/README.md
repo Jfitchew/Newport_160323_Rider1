@@ -1,6 +1,7 @@
 Various plots and data tables to help Validate data for all Test Runs  
 ### Data Issues  
 - [Missing Data Records](MissingDataRecs.html)  
+- [Global Vs Public field discrepancies](GlobalVsPublic_Fields.html)  
 - [Speed Quantisation](SpeedFromOdoCount.html)  
 - [Speed derivation options](OdoRevTime_Speed.html)  
 - [Speed from Crank Angle](SpeedFromCrankAngle.html)  
