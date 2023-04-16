@@ -7,6 +7,7 @@
 - [CrankAngleDelta-Spikes](..\CrankAngleDelta-Spikes.html)
 - [Drag-Spikes](..\Drag-Spikes.html)
 - [GroundSpeed-Spikes](..\GroundSpeed-Spikes.html)
+- [Orig_Ground_Speed-Spikes](..\Orig_Ground_Speed-Spikes.html)
 - [TotalWeight-Spikes](..\TotalWeight-Spikes.html)
 - [Total_P-Spikes](..\Total_P-Spikes.html)
 - [Weight-Spikes](..\Weight-Spikes.html)

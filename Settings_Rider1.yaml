@@ -1,5 +1,5 @@
 # Rider Settings
-RIDER_WEIGHT: 76.9    # from Total Weight plot if not measured
+RIDER_WEIGHT: 76.4    # My scales said 76.9, BR scales said 75.9, from Total Weight plot it went from 76.1 to 76.5kg with 76.4kg most frequent
 
 # Bike settings
 BIKE_WEIGHT: 11.1     # BMC bike without rod+discs
@@ -21,3 +21,7 @@ COM_RIDER_HEIGHT: 1.2   # higher than COM_HEIGHT as bike mass is excluded so all
 COP_HEIGHT: 1.2         # Centre of Pressure (centre of Frontal Area) - will be slightly higher than CoM as FA of bike is much smaller for its mass (displaced more lengthwise)
 COP_RIDER_HEIGHT: 1.25  # keeping this close to COP_HEIGHT because FA of bike is small and addition of rod and discs lower than saddle will offset this 
 PITOT_HEIGHT: 0.72      # Height of Pitot tube where air speed is measured (720mm for Cadex, 760mm for Giant)
+
+# Temp Sensor used
+TEMP_SENSOR_RHO: temp103T    # temp103T (HB Inclinometer) field used by BR for calculating Air Density (instead of usual Temp_C from Aerohead)
+
