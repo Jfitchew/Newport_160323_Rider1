@@ -8,7 +8,6 @@ Various plots and data tables for all Test Runs
 ### Test Runs  
 - [R01 - Baseline](R01\)  
 - [R03 - Rod Only](R03\)  
-- [R03 - Rod Only](R03\)  
 - [R05 - 50mm Disc](R05\)  
 - [R07 - 60mm Disc](R07\)  
 - [R09 - 80mm Disc](R09\)  

@@ -2,7 +2,6 @@ Short captures as rider passed 130m track marker, for selected Test Runs only
 ### Videos  
 #### Test run: R01 (Baseline)  
 #### Test run: R03 (Rod Only)  
-#### Test run: R03 (Rod Only)  
 #### Test run: R05 (50mm Disc)  
 #### Test run: R07 (60mm Disc)  
 #### Test run: R09 (80mm Disc)  
