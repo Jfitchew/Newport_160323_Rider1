@@ -4,6 +4,7 @@
 - [Speed Quantisation](..\SpeedFromOdoCount.html)  
 - [Speed derivation options](..\OdoRevTime_Speed.html)  
 - [Speed from Crank Angle](..\SpeedFromCrankAngle.html)  
+- [Ground Speeds Compared](GroundSpeeds.html)  
 
 - [Summary of Data Outliers](..\DataPeaks.html) 
 - [Summary of Data Spikes](..\DataSpikes.html) 
