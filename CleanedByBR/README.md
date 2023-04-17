@@ -6,6 +6,12 @@ Various plots and data tables to help Validate data for all Test Runs
 - [Speed derivation options](OdoRevTime_Speed.html)  
 - [Speed from Crank Angle](SpeedFromCrankAngle.html)  
 - [Ground Speeds Compared](GroundSpeeds.html)  
+- [Air Densities Compared](AirDensities.html)  
+- [Air Speeds Compared](AirSpeeds.html)  
+- [Wind Speeds Compared](WindSpeeds.html)  
+- [Accelerations Compared](Accelerations.html)  
+- [Lean Angles Compared](LeanAngles.html)  
+- [Rider CdAs Compared](RiderCdAs.html)  
 
 #### Data Outliers  <img src="Power-Peaks.png" alt="power peaks" style="float:right;width:225px;height:250px;" />
 - [Summary of Data Outliers](DataPeaks.html) 
