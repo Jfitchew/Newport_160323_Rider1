@@ -2,7 +2,7 @@
 RIDER_WEIGHT: 76.4    # My scales said 76.9, BR scales said 75.9, from Total Weight plot it went from 76.1 to 76.5kg with 76.4kg most frequent
 
 # Bike settings
-BIKE_WEIGHT: 11.1     # BMC bike without rod+discs
+BIKE_WEIGHT: 11.1     #  bike without rod+discs
 ROD_DISC_WEIGHT: 0.25 # Rod with 2x T-Clamp = 183.1g, 100mm discs with T-Clamp = 60.5g (Total 244g)  40mm discs with T-Clamp = 38.5g
 
 CRR: 0.0025           # BR setting (see summary.csv files)
